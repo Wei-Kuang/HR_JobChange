@@ -18,11 +18,11 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 - Final model: The model with tuned hyper parameters.
 
 
-<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> Random Forest Model Performance</a>  
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Performance</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
-| **Default Model**  | 0.855                  | 0.933                   |
-| **Final Model**    | 0.860                  | 0.937                   |
+| **Default **       | 0.855                  | 0.933                   |
+| **Final **         | 0.860                  | 0.937                   |
 
 
 #### Gradient Boost Model Performance
