@@ -1,5 +1,8 @@
 # HR Analytics: Job Change of Data Scientists
+Predict who will move to a new job
 
+
+This is the dataset
 
 ## Random Forest Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
