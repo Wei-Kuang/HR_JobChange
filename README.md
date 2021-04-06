@@ -6,7 +6,7 @@
 Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saulo Mohana</a> on <a href="https://unsplash.com/s/photos/career?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
+
 
  
 ### 0) Data Exploration and Visualization <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb">[code]</a>  
@@ -80,4 +80,5 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 | **Final**          | 0.862                  | 0.937                   |
 
 
-
+#### Reference
+Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
