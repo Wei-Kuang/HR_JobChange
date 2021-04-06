@@ -25,6 +25,7 @@ Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medi
 
 ### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb">[code]</a>
 
+<img src="Image/ROC_model_selection.png" height="400">
 
 <ul>I explore the following models to predict the outcome:
 <ul>
