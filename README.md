@@ -19,7 +19,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> Random Forest Model Performance</a>  
-| Random Forest      | Accuracy (testing set) | AUC score (testing set) |
+| Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default Model**  | 0.855                  | 0.933                   |
 | **Final Model**    | 0.860                  | 0.937                   |
