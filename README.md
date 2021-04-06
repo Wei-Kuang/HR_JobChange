@@ -11,13 +11,17 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 ### <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> 2) Model Selection</a>  
 
 
-### 3) Final models
+### 3) Performance of Final Models
 
-#### Random Forest Model Performance
+**Annotation**
+- Default model: The model using default hyper parameters.
+- Final model: The model with tuned hyper parameters.
+
+
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> Random Forest Model Performance</a>  
-| Model              | Accuracy (testing set) | AUC score (testing set) |
+| Random Forest      | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
-| **Default**        | 0.855                  | 0.933                   |
+| **Default Model**  | 0.855                  | 0.933                   |
 | **Final Model**    | 0.860                  | 0.937                   |
 
 
@@ -37,6 +41,4 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 | **Final Model**    | 0.862                  | 0.937                   |
 
 
-**Footnote**
-- Default model: The model using default hyper parameters.
-- Final model: The model with tuned hyper parameters.
+
