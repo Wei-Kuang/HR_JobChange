@@ -4,13 +4,13 @@
 
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
-#### Data Visualization
+## Data Visualization
 
-#### DataPreprocessing
+## DataPreprocessing
 
-#### ModelSelection
+## ModelSelection
 
-#### Final models
+## Final models
 
 #### Random Forest Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
