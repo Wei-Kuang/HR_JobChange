@@ -1,23 +1,32 @@
 # HR Analytics: Job Change of Data Scientists
-### Predict who will move to a new job
+## Predict who will move to a new job
+
 
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
-## Random Forest Model Performance
+#### Data Visualization
+
+#### DataPreprocessing
+
+#### ModelSelection
+
+#### Final models
+
+#### Random Forest Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.855                  | 0.933                   |
 | **Final Model**    | 0.860                  | 0.937                   |
 
 
-## Gradient Boost Model Performance
+#### Gradient Boost Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.855                  | 0.925                   |
 | **Final Model**    | 0.859                  | 0.936                   |
 
 
-## Xgboost Model Performance
+#### Xgboost Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.859                  | 0.935                   |
