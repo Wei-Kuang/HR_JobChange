@@ -1,4 +1,5 @@
-# HR_JobChange
+# HR Analytics: Job Change of Data Scientists
+
 
 ## Random Forest Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
