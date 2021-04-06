@@ -60,24 +60,24 @@ Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medi
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Tuning [code] </a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
-| **Default **       | 0.855                  | 0.933                   |
-| **Final **         | 0.860                  | 0.937                   |
+| **Default **       | 0.855                  | 0.9326                  |
+| **Final**          | 0.860                  | 0.9370                  |
 
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_2_GMB_TuningParam.ipynb"> 3.2) Gradient Boost Model Tuning [code]</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
-| **Default**        | 0.855                  | 0.925                   |
-| **Final**          | 0.859                  | 0.936                   |
+| **Default**        | 0.855                  | 0.9250                   |
+| **Final**          | 0.859                  | 0.9361                   |
 
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_3_XBG_TuningParam.ipynb"> 3.3) Xgboost Model Tuning [code]</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
-| **Default**        | 0.859                  | 0.935                   |
-| **Final**          | 0.862                  | 0.937                   |
+| **Default**        | 0.859                  | 0.9349                   |
+| **Final**          | 0.862                  | 0.9368                   |
 
 
 #### Reference
