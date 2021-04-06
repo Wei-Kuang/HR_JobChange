@@ -4,9 +4,9 @@
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
  
-### 0) Data Exploration and Visualization <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb">link</a>  
+### 0) Data Exploration and Visualization <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb">[code]</a>  
 
-### 1) Data Preprocessing <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb">link</a>  
+### 1) Data Preprocessing <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb">[code]</a>  
 
 <ul><ul>
 <li>Remove unneeded features.</li>
@@ -18,7 +18,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 <li>Then, standardize the numeric column based on train set.</li>
 </ul></ul>
 
-### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> link</a>
+### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb">[code]</a>
 
 
 <ul>I explore the following models to predict the outcome:
@@ -37,7 +37,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 > 
 > By reviewing AUC score, I have the same conclusion that the top 3 models are:
 > -  (1) Xgboost
-> -  (2) RandomForest
+> -  (2) Random Forest
 > -  (3) Gradient Boost
 > - I will tune parameters for these models using cross-validation and grid search
 #### 
@@ -45,19 +45,14 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 
 
-
-
-
-
-
-### 3) Performance of Final Models
+### 3) Performance of tuned RandomForest, Gradient Boost, and Xgboost
 
 **Annotation**
 - Default model: The model using default hyper parameters.
 - Final model: The model with tuned hyper parameters.
 
 
-<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Performance</a>  
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Performance- code </a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default **       | 0.855                  | 0.933                   |
