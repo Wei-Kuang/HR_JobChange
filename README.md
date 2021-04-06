@@ -13,9 +13,9 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 ### 3) Performance of Final Models
 
-**Annotation**
-- Default model: The model using default hyper parameters.
-- Final model: The model with tuned hyper parameters.
+\t **Annotation**
+\t - Default model: The model using default hyper parameters.
+\t - Final model: The model with tuned hyper parameters.
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Performance</a>  
