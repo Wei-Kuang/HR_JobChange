@@ -8,6 +8,16 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 ### 1) Data Preprocessing <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb">link</a>  
 
+<ul><ul>
+<li>Remove unneeded features.</li>
+<li>Impute missing values.</li>
+<li>Encode ordinal variables.</li>
+<li>One hot encode for "Nominal variable.</li>
+<li>Impute minor outcom.e</li>
+<li>Split the dataset into train and test.</li>
+<li>Then, standardize the numeric column based on train set.</li>
+</ul></ul>
+
 ### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> link</a>  
 
 
