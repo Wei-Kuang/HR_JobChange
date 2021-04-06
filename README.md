@@ -3,7 +3,7 @@
 
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
-
+ 
 ### <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb"> 0) Data Exploration and Visualization</a>  
 
 ### <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb"> 1) Data Preprocessing</a>  
