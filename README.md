@@ -18,10 +18,18 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 <li>Then, standardize the numeric column based on train set.</li>
 </ul></ul>
 
-### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> link</a>  
+### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> link</a>
 
-
-
+I explore the following models to predict the outcome:
+<ul><ul>
+<li>Logistic Regression</li>
+<li>SVM_SGD</li> 
+<li>DecisionTree</li> 
+<li>Random Forest</li>
+<li>Gradient Boost</li>
+<li>Xgboost</li>
+<li>My voting_clf (ensemble model)</li>
+</ul></ul>
 
 ### 3) Performance of Final Models
 
