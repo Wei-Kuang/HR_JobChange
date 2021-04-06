@@ -32,13 +32,21 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 <li>My voting_clf (ensemble model)</li>
 </ul></ul>
 
-#### Decision:
 
-By reviewing accuracy and f1-score, I have the same conclusion that the top 3 models are:
+> #### Decision!
+> 
+> By reviewing accuracy and f1-score, I have the same conclusion that the top 3 models are:
+> - Xgboost
+> - RandomForest
+> - Gradient Boost
+>  
+#### :
 
-- Xgboost
-- RandomForest
-- Gradient Boost
+
+
+
+
+
 
 
 
