@@ -5,10 +5,8 @@
 
 Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saulo Mohana</a> on <a href="https://unsplash.com/s/photos/career?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+<p>&nbsp;</p>
 
-
-
- 
 ### 0) Data Exploration and Visualization <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb">[code]</a>  
 
 ### 1) Data Preprocessing <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb">[code]</a>  
@@ -33,8 +31,7 @@ I explore seven models to predict the outcome: Logistic Regression, SVM_SGD, Dec
 
 By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, and (3) Gradient Boost.** I will tune parameters for these models using cross-validation and grid search 
 
-
-\n
+<p>&nbsp;</p>
 
 ### 3) Performance of tuned RandomForest, Gradient Boost, and Xgboost
 
