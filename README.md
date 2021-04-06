@@ -20,8 +20,9 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 ### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> link</a>
 
-I explore the following models to predict the outcome:
-<ul><ul>
+
+<ul>I explore the following models to predict the outcome:
+<ul>
 <li>Logistic Regression</li>
 <li>SVM_SGD</li> 
 <li>DecisionTree</li> 
