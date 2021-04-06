@@ -31,10 +31,8 @@ I explore seven models to predict the outcome: Logistic Regression, SVM_SGD, Dec
 
 #### Decision
 
-By reviewing AUC score, the top 3 models are:
--  (1) Xgboost 
--  (2) Random Forest
--  (3) Gradient Boost
+By reviewing AUC score, the top 3 models are: (1) Xgboost, (2) Random Forest, and (3) Gradient Boost
+
 I will tune parameters for these models using cross-validation and grid search 
 
 
