@@ -39,7 +39,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 > - Xgboost
 > - RandomForest
 > - Gradient Boost
->  I will tune parameters for Xgboost, RandomForest, and GradientBoost using cross-validation.
+> - I will tune parameters for Xgboost, RandomForest, and GradientBoost using cross-validation.
 >  
 #### 
 
