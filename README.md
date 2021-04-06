@@ -36,11 +36,11 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 > #### Decision
 > 
 > By reviewing AUC score, I have the same conclusion that the top 3 models are:
-> - Xgboost
-> - RandomForest
-> - Gradient Boost
->  
-#### I will tune parameters for Xgboost, RandomForest, and GradientBoost using cross-validation.
+> -  (1) Xgboost
+> -  (2) RandomForest
+> -  (3) Gradient Boost
+> - I will tune parameters for these models using cross-validation and grid search
+#### 
 
 
 
