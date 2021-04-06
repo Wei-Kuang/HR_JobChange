@@ -25,19 +25,9 @@ Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medi
 
 ### 2) Model Selection <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb">[code]</a>
 
-| hollow |<img src="Image/ROC_model_selection.png" height="400"> |
+<img src="Image/ROC_model_selection.png" height="400"> 
 
-<ul>I explore the following models to predict the outcome:
-<ul>
-<li>Logistic Regression</li>
-<li>SVM_SGD</li> 
-<li>DecisionTree</li> 
-<li>Random Forest</li>
-<li>Gradient Boost</li>
-<li>Xgboost</li>
-<li>My voting_clf (ensemble model)</li>
-</ul></ul>
-
+I explore seven models to predict the outcome: Logistic Regression, SVM_SGD, DecisionTree, Random Forest, Gradient Boost, Xgboost ,and My voting_clf (ensemble model).
 
 > #### Decision
 > 
