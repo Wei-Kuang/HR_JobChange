@@ -1,8 +1,7 @@
 # HR Analytics: Job Change of Data Scientists
 Predict who will move to a new job
 
-
-This is the dataset
+Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
 ## Random Forest Model Performance
 | Model              | Accuracy (testing set) | AUC score (testing set) |
