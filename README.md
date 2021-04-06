@@ -8,13 +8,13 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 ### <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb"> 1) Data Preprocessing</a>  
 
-### 2) Model Selection
-<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> 2) Model Selection</a>  
+### <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step2_ModelSelection.ipynb"> 2) Model Selection</a>  
 
 
 ### 3) Final models
 
 #### Random Forest Model Performance
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> Random Forest Model Performance</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.855                  | 0.933                   |
@@ -22,6 +22,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 
 #### Gradient Boost Model Performance
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_2_GMB_TuningParam.ipynb"> Gradient Boost Model Performance</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.855                  | 0.925                   |
@@ -29,6 +30,7 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 
 #### Xgboost Model Performance
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_3_XBG_TuningParam.ipynb"> Xgboost Model Performance</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
 | :--                | :--                    |:--                      |
 | **Default**        | 0.859                  | 0.935                   |
