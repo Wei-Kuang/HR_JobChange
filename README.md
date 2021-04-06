@@ -5,6 +5,7 @@
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
 ### 0) Data Exploration and Visualization
+#### :date: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW1/hw1_2019.ipynb">1. The Doomsday Algorithm </a>  
 
 ### 1) Data Preprocessing
 
