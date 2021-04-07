@@ -77,24 +77,21 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Model</th>
+    <th>Accuracy (testing set)</th> 
+    <th>AUC score (testing set)</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Default</td>
+    <td>Final</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td> XXXX </td>
+    <td> XXXX </td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td> YYYY</td>
+    <td> YYYY</td>
   </tr>
 </table>
 
