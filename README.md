@@ -42,13 +42,7 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 - **Final model:** The model with tuned hyper parameters.
 
 
-<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Tuning [code] </a>  
-| Model              | Accuracy (testing set) | AUC score (testing set) |
-| :--                | :--                    |:--                      |
-| **Default**        | 0.855                  | 0.9326                  |
-| **Final**          | 0.860                  | 0.9370                  |
-
-<!DOCTYPE html>
+<a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_1_RandomForest_TuningParam.ipynb"> 3.1) Random Forest Model Tuning [code] </a>  <!DOCTYPE html>
 <html>
 <body>
 
