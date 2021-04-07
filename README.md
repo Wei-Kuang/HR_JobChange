@@ -123,7 +123,7 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 <p>&nbsp;</p>
 
 ### 4) Feature importance
-<img src="Image/feature_imp.gif" height="1000"> 
+<img src="Image/feature_imp.gif" width="1000"> 
 
 <p>&nbsp;</p>
 ### Reference
