@@ -75,11 +75,6 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_2_GMB_TuningParam.ipynb"> 3.2) Gradient Boost Model Tuning [code]</a>  
-| Model              | Accuracy (testing set) | AUC score (testing set) |
-| :--                | :--                    |:--                      |
-| **Default**        | 0.855                  | 0.9250                   |
-| **Final**          | 0.859                  | 0.9361                   |
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -106,11 +101,6 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 </html>
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_3_XBG_TuningParam.ipynb"> 3.3) Xgboost Model Tuning [code]</a>  
-| Model              | Accuracy (testing set) | AUC score (testing set) |
-| :--                | :--                    |:--                      |
-| **Default**        | 0.859                  | 0.9349                   |
-| **Final**          | 0.862                  | 0.9368                   |
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -135,34 +125,8 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 </table>
 </body>
 </html>
+
 <p>&nbsp;</p>
 
 ### Reference
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<table style="width:100%">
-  <tr>
-    <th>Model</th>
-    <th>Accuracy (testing set)</th> 
-    <th>AUC score (testing set)</th>
-  </tr>
-  <tr>
-    <td>Default</td>
-    <td> XXXX </td>
-    <td> XXXX </td>
-  </tr>
-  <tr>
-    <td> Final </td>
-    <td> YYYYY </td>
-    <td> YYYYY </td>
-  </tr>
-  
-</table>
-</body>
-</html>
