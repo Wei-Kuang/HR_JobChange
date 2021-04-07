@@ -48,6 +48,30 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 | **Default**        | 0.855                  | 0.9326                  |
 | **Final**          | 0.860                  | 0.9370                  |
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy (testing set)</th> 
+    <th>AUC score (testing set)</th>
+  </tr>
+  <tr>
+    <td>Default</td>
+    <td> 0.855 </td>
+    <td> 0.9326 </td>
+  </tr>
+  <tr>
+    <td> Final </td>
+    <td> 0.860 </td>
+    <td> 0.9370 </td>
+  </tr>
+  
+</table>
+</body>
+</html>
 
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_2_GMB_TuningParam.ipynb"> 3.2) Gradient Boost Model Tuning [code]</a>  
@@ -56,7 +80,30 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 | **Default**        | 0.855                  | 0.9250                   |
 | **Final**          | 0.859                  | 0.9361                   |
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy (testing set)</th> 
+    <th>AUC score (testing set)</th>
+  </tr>
+  <tr>
+    <td>Default</td>
+    <td> 0.855 </td>
+    <td> 0.9250 </td>
+  </tr>
+  <tr>
+    <td> Final </td>
+    <td> 0.859 </td>
+    <td> 0.9361 </td>
+  </tr>
+  
+</table>
+</body>
+</html>
 
 <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step3_3_XBG_TuningParam.ipynb"> 3.3) Xgboost Model Tuning [code]</a>  
 | Model              | Accuracy (testing set) | AUC score (testing set) |
@@ -64,6 +111,30 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 | **Default**        | 0.859                  | 0.9349                   |
 | **Final**          | 0.862                  | 0.9368                   |
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy (testing set)</th> 
+    <th>AUC score (testing set)</th>
+  </tr>
+  <tr>
+    <td>Default</td>
+    <td> 0.859 </td>
+    <td> 0.9349 </td>
+  </tr>
+  <tr>
+    <td> Final </td>
+    <td> 0.862 </td>
+    <td> 0.9368 </td>
+  </tr>
+  
+</table>
+</body>
+</html>
 <p>&nbsp;</p>
 
 ### Reference
