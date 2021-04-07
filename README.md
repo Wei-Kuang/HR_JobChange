@@ -126,5 +126,7 @@ By reviewing AUC score, the top 3 models are: **(1) Xgboost, (2) Random Forest, 
 <img src="Image/feature_imp_RF.png" width="900"> 
 
 <p>&nbsp;</p>
+
 ### Reference
+
 Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
