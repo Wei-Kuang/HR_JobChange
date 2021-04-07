@@ -83,17 +83,15 @@ Dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scienti
   </tr>
   <tr>
     <td>Default</td>
-    <td>Final</td>
-  </tr>
-  <tr>
     <td> XXXX </td>
     <td> XXXX </td>
   </tr>
   <tr>
-    <td> YYYY</td>
-    <td> YYYY</td>
+    <td> Final </td>
+    <td> YYYYY </td>
+    <td> YYYYY </td>
   </tr>
+  
 </table>
-
 </body>
 </html>
