@@ -9,6 +9,7 @@ Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medi
 
 ### 0) Data Exploration and Visualization <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step0_DataVisualization.ipynb">[code]</a> 
 
+**Please visit the code for more data visualization and insight extraction**
 <img src="Image/example_bar_plot.gif" width="1000">
 
 ### 1) Data Preprocessing <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/HR_JobChange/blob/main/HR_Analysis_Step1_DataPreprocessing.ipynb">[code]</a>  
