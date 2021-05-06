@@ -18,7 +18,7 @@ Photo by <a href="https://unsplash.com/@saulomohana?utm_source=unsplash&utm_medi
 <li>Remove unneeded features.</li>
 <li>Impute missing values.</li>
 <li>Encode ordinal variables.</li>
-<li>One hot encode for "Nominal variable.</li>
+<li>One hot encode for Nominal variable.</li>
 <li>Impute minor outcome.</li>
 <li>Split the dataset into train and test.</li>
 <li>Then, standardize the numeric column based on train set.</li>
