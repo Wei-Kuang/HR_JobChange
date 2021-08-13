@@ -1,5 +1,4 @@
-# HR Analytics: Job Change of Data Scientists
-## Predict who will move to a new job
+# HR Analytics: Predict who will move to a new job
 
 <img src="Image/saulo-mohana-wNz7_5EvUWU-unsplash.jpg" height="450">
 
